@@ -1,0 +1,19 @@
+### Footprint positions - created on 2025-07-21T18:05:54+0100 ###
+### Printed by KiCad version 9.0.2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                   Package                                                             PosX       PosY       Rot  Side
+C1        100n                  C_Elec_4x5.4                                                    140.6100   -75.1600    0.0000  top
+D1        D_Small               D_SOD-882                                                       144.4000  -102.6000    0.0000  top
+HS1       Heatsink              Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3       161.3900   -88.3600   90.0000  top
+J1        Screw_Terminal_01x02  TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal   118.8150  -103.5625    0.0000  top
+J2        Screw_Terminal_01x02  TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal   181.0900   -80.4100  -90.0000  top
+J3        Screw_Terminal_01x02  TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal   181.0900   -95.3200  -90.0000  top
+J4        Conn_01x02            PinHeader_1x02_P2.00mm_Vertical                                 183.3100  -107.0300   90.0000  top
+Q1        BS108                 TO-92_Inline                                                    152.0300   -91.0900   90.0000  top
+Q2        BS108                 TO-92_Inline                                                    171.6800   -91.0900   90.0000  top
+R1        10                    R_0603_1608Metric                                               144.2550   -97.9500    0.0000  top
+R2        220                   R_2010_5025Metric                                               121.1100   -87.6500    0.0000  top
+R3        10k                   R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal               139.3500   -81.9100    0.0000  top
+U1        TLP3545               DIP-6_W7.62mm                                                   128.4150   -87.6850    0.0000  top
+## End
